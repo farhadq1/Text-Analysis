@@ -1,3 +1,5 @@
-# Text-Analysis
+## Text Analysis
 
-Stored my thesis as a .txt file to only include text. Imported it in python and performed some cleaning, stemming and created a bar plot to see the frequency of words I used. Since the thesis was related to auditory signal processing in the brain, most words I used were related to sound signals and their properties. This will be helpful in mentioning the keywords for publications.
+This code was designed to perform basic text analysis such as removing stop words, stemming and visualizations. The text data used in this code is my MSc thesis.
+
+
